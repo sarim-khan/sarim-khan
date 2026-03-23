@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full Stack MERN Developer | React • Node.js • MongoDB • Python <br><br>I build scalable web apps with clean UI and efficient backend systems.  <br>Focused on real-world projects, performance, and continuous learning.<br><br>Open to full-time and freelance opportunities.
+Full Stack Developer | React • Node.js • MongoDB • Python <br><br>I build scalable web apps with clean UI and efficient backend systems.  <br>Focused on real-world projects, performance, and continuous learning.<br><br>Open to full-time and freelance opportunities.
 
 
 ## 🌐 Socials:
